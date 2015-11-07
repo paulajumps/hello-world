@@ -1,2 +1,3 @@
 # hello-world
-moondoggies
+create moondoggies
+Go eat pancakes
